@@ -35,7 +35,7 @@ pip install transformers torch
 ## 🧪 Run the Notebook
 
 You can run it in **Google Colab** with this badge:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/NLP_Pipelines_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QgWI4DEts5okpQnOH6xO0-wTFzGcEpxE)
 
 Or run locally:
 ```bash
